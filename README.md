@@ -4,4 +4,4 @@ I'm Victor, First of His Name (on Github). I'm an iOS developer from Barcelona, 
 
 I used to code for [XING](https://github.com/xing), mainly on a Github Enterprise instance, so very few of my commits were reflected on this profile for some time. 🤷🏽
 
-Nowadays, I code for [Proton](https://proton.me), and my work will be open source.
+Nowadays, I work for [Proton](https://proton.me), and my code is open source.
